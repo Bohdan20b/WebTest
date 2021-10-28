@@ -1,0 +1,7 @@
+h1{
+    font-family:Alpha echo;
+}
+@font-face {
+    font-family: alpha-echo;
+    src: url("/Users/bb/Documents/LogosWebTest/fonts/alpha_echo.ttf");
+}
